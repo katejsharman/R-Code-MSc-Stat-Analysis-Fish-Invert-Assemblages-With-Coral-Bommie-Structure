@@ -1,1 +1,1 @@
-# MSc-R-Code-Independent Project-Stats
+# MSc: R Code - Independent Project Stats

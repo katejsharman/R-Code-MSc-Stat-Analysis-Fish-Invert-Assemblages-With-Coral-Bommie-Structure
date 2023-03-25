@@ -1,0 +1,164 @@
+ID	Dist_neighbour	Neighbour_5m	Habitat	HAS	HAS_2	Rugosity	Invert_rich	Invert_rich2
+1	High	Low	Bommie	Low	Medium	High	1	1.0000001
+2	Low	Medium	Bommie	Very high	High	High	6	6.0000001
+3	Low	Low	Bommie	Low	Low	High	0	0.0000001
+4	Low	Low	Bommie	Medium	Medium	High	2	2.0000001
+5	Low	Low	Bommie	High	Medium	High	2	2.0000001
+6	Low	Low	Bommie	Medium	Medium	High	1	1.0000001
+7	Low	Low	Bommie	Medium	Medium	High	1	1.0000001
+8	Low	Low	Bommie	Medium	Medium	High	2	2.0000001
+9	Low	Low	Bommie	Low	Low	Medium	1	1.0000001
+14	Very high	Low	Bommie	Low	Low	High	3	3.0000001
+15	Medium	Medium	Bommie	Very high	High	High	3	3.0000001
+16	Low	Medium	Bommie	Medium	Medium	High	3	3.0000001
+17	High	Low	Bommie	Low	Low	High	5	5.0000001
+20	Very high	Low	Seagrass	Very low	Low	Medium	2	2.0000001
+21	Very high	Low	Seagrass	Low	Low	High	1	1.0000001
+22	Very high	Low	Seagrass	Low	Low	High	1	1.0000001
+23	Very high	Low	Seagrass	Medium	Medium	High	2	2.0000001
+24	Very high	Low	Seagrass	Low	Medium	High	2	2.0000001
+25	Medium	Low	Seagrass	Low	Medium	High	1	1.0000001
+26	High	Low	Seagrass	Low	Low	High	1	1.0000001
+27	Medium	Low	Seagrass	Low	Low	High	0	0.0000001
+28	Medium	Low	Seagrass	Medium	Medium	Medium	1	1.0000001
+29	Medium	Low	Seagrass	Low	Low	High	0	0.0000001
+30	Very high	Low	Seagrass	Low	Medium	Medium	0	0.0000001
+31	Very high	Low	Seagrass	Low	Low	High	2	2.0000001
+32	Very high	Low	Bommie	Medium	Medium	High	1	1.0000001
+33	Low	Medium	Bommie	Low	Medium	High	3	3.0000001
+34	Low	Medium	Bommie	Low	Medium	High	0	0.0000001
+35	Low	Medium	Bommie	Medium	Medium	High	3	3.0000001
+36	Low	Medium	Bommie	Very low	Low	High	2	2.0000001
+37	Low	Medium	Bommie	Low	Low	High	1	1.0000001
+38	Low	Low	Bommie	High	Medium	High	4	4.0000001
+39	Medium	Low	Bommie	High	Medium	High	3	3.0000001
+40	Very low	Low	Bommie	Low	Low	High	2	2.0000001
+41	Very low	Low	Bommie	Medium	Medium	High	2	2.0000001
+42	Medium	Low	Bommie	Medium	Medium	High	1	1.0000001
+43	Medium	Low	Bommie	Medium	Medium	High	2	2.0000001
+44	Low	Low	Bommie	Very high	High	High	1	1.0000001
+45	Low	Low	Bommie	High	Medium	Medium	6	6.0000001
+46	High	Medium	Bommie	High	High	Medium	8	8.0000001
+47	Medium	Low	Bommie	Very high	High	High	4	4.0000001
+48	Low	Medium	Bommie	Medium	Medium	High	5	5.0000001
+49	High	Medium	Bommie	Medium	Medium	High	4	4.0000001
+50	Low	Low	Bommie	Medium	Medium	High	1	1.0000001
+51	Medium	Low	Bommie	Medium	Medium	High	2	2.0000001
+52	Low	Low	Bommie	Very high	High	High	5	5.0000001
+53	Low	Low	Bommie	Low	Low	High	5	5.0000001
+54	Low	Low	Bommie	High	Medium	High	5	5.0000001
+55	Low	Low	Bommie	Very low	Low	Medium	1	1.0000001
+56	Low	Low	Bommie	Low	Low	Medium	3	3.0000001
+57	Low	Medium	Bommie	Very low	Low	Medium	2	2.0000001
+58	Low	Low	Bommie	Low	Low	Medium	1	1.0000001
+59	Low	Low	Bommie	Low	Low	Medium	1	1.0000001
+60	Low	Medium	Bommie	High	Medium	High	3	3.0000001
+61	Very low	Medium	Bommie	Low	Low	High	2	2.0000001
+62	Very low	Medium	Bommie	Medium	Medium	High	3	3.0000001
+63	Low	Medium	Bommie	Medium	Medium	Medium	1	1.0000001
+64	Low	Medium	Bommie	High	Medium	High	2	2.0000001
+65	Very low	Medium	Bommie	Medium	Medium	Medium	4	4.0000001
+66	Low	Medium	Bommie	High	Medium	High	3	3.0000001
+67	Medium	Medium	Bommie	Medium	Medium	Medium	2	2.0000001
+68	Low	Medium	Bommie	Medium	Medium	High	3	3.0000001
+69	Low	Medium	Bommie	High	Medium	High	3	3.0000001
+70	Low	Medium	Bommie	Low	Low	High	4	4.0000001
+71	Very low	Medium	Bommie	Medium	Medium	High	5	5.0000001
+72	Medium	Medium	Bommie	Low	Low	Medium	6	6.0000001
+73	Very low	Medium	Bommie	Low	Low	Medium	6	6.0000001
+74	Very low	Medium	Bommie	Medium	Medium	High	4	4.0000001
+75	Very low	Medium	Bommie	Low	Medium	High	1	1.0000001
+76	Very low	High	Bommie	Very high	High	High	4	4.0000001
+77	Low	Medium	Bommie	High	Medium	High	0	0.0000001
+78	Very low	Medium	Bommie	Very low	Low	Medium	0	0.0000001
+79	Very low	Medium	Bommie	Medium	Medium	High	3	3.0000001
+80	Very low	Medium	Bommie	Medium	Medium	Medium	4	4.0000001
+81	Low	Medium	Bommie	Medium	Medium	High	4	4.0000001
+82	Low	Medium	Bommie	Very low	Low	Medium	0	0.0000001
+83	Very low	Medium	Bommie	Low	Medium	Medium	2	2.0000001
+84	Low	Medium	Bommie	Medium	Medium	High	2	2.0000001
+85	Low	Medium	Bommie	Low	Low	High	2	2.0000001
+86	Very low	Medium	Bommie	Low	Low	Medium	3	3.0000001
+87	Low	Low	Bommie	Medium	Medium	High	4	4.0000001
+88	Low	High	Bommie	Low	Low	Medium	2	2.0000001
+89	Low	Medium	Bommie	Low	Medium	High	5	5.0000001
+90	Very low	Medium	Bommie	Medium	Medium	Medium	3	3.0000001
+91	Very low	High	Bommie	Medium	Medium	High	6	6.0000001
+92	Very low	Very high	Bommie	Medium	Medium	High	0	0.0000001
+93	Very low	Very high	Bommie	Medium	Medium	High	2	2.0000001
+94	Low	High	Bommie	High	Medium	High	4	4.0000001
+95	Low	Medium	Bommie	High	Medium	High	3	3.0000001
+96	Low	Medium	Bommie	Very low	Low	Medium	7	7.0000001
+97	Low	Very high	Bommie	Low	Medium	High	1	1.0000001
+98	Very low	Very high	Bommie	High	Medium	High	0	0.0000001
+99	Very low	Very high	Bommie	Low	Low	High	4	4.0000001
+100	Very low	High	Bommie	Low	Medium	High	3	3.0000001
+101	Low	Medium	Bommie	Medium	Medium	High	4	4.0000001
+102	Very low	High	Bommie	High	Medium	High	3	3.0000001
+103	Very low	High	Bommie	High	Medium	High	3	3.0000001
+104	Low	High	Bommie	High	Medium	High	4	4.0000001
+105	Low	Medium	Bommie	Medium	Medium	High	3	3.0000001
+106	Very low	High	Bommie	Low	Low	Medium	2	2.0000001
+107	Very low	Medium	Bommie	Very high	High	Medium	4	4.0000001
+108	Low	Medium	Bommie	Medium	Medium	Medium	4	4.0000001
+109	Low	Medium	Bommie	Medium	Medium	High	4	4.0000001
+110	Low	Medium	Bommie	Medium	Medium	High	4	4.0000001
+111	Very low	High	Bommie	Medium	Medium	High	4	4.0000001
+112	Low	High	Bommie	Medium	Medium	Medium	6	6.0000001
+113	Low	High	Bommie	Medium	Medium	High	1	1.0000001
+114	Low	High	Bommie	High	High	High	7	7.0000001
+115	Low	Very high	Bommie	High	Medium	High	4	4.0000001
+116	Low	Low	Bommie	Medium	Medium	High	4	4.0000001
+117	Very low	High	Bommie	Low	Low	Medium	1	1.0000001
+118	Very low	Medium	Bommie	Low	Low	Medium	0	0.0000001
+143	Medium	Medium	Bommie	Low	Low	Medium	3	3.0000001
+144	Low	Medium	Bommie	Medium	Medium	High	7	7.0000001
+145	Medium	High	Bommie	Very low	Low	Medium	2	2.0000001
+146	Low	High	Bommie	Very low	Low	Medium	1	1.0000001
+147	Low	High	Bommie	High	Medium	Medium	1	1.0000001
+148	Low	High	Bommie	Low	Medium	Medium	2	2.0000001
+149	Low	Medium	Bommie	Low	Medium	Medium	3	3.0000001
+150	Low	Medium	Bommie	Medium	Medium	Low	4	4.0000001
+151	Very low	Medium	Bommie	Low	Low	Medium	2	2.0000001
+152	Medium	Medium	Bommie	Low	Low	Medium	0	0.0000001
+153	Low	Low	Bommie	Medium	Medium	Low	4	4.0000001
+154	Very low	Very high	Bommie	Medium	Medium	Medium	5	5.0000001
+155	Very low	Very high	Bommie	High	Medium	High	1	1.0000001
+156	Low	Very high	Bommie	Low	Low	Medium	1	1.0000001
+157	Very low	Very high	Bommie	Medium	Medium	High	3	3.0000001
+158	Very low	Very high	Bommie	Medium	Medium	High	5	5.0000001
+159	Very low	Very high	Bommie	Low	Low	High	3	3.0000001
+160	Very low	High	Bommie	Low	Low	Medium	4	4.0000001
+161	Low	Medium	Bommie	Low	Low	Low	2	2.0000001
+162	Low	Very high	Bommie	Medium	Medium	High	2	2.0000001
+163	Low	Very high	Bommie	Medium	Medium	Medium	2	2.0000001
+164	Low	Very high	Bommie	Very low	Low	Medium	3	3.0000001
+165	Very low	High	Bommie	Medium	Medium	High	2	2.0000001
+166	Very low	Medium	Bommie	Very low	Low	Medium	4	4.0000001
+167	Low	Medium	Bommie	Low	Medium	Medium	2	2.0000001
+168	Low	Medium	Bommie	Low	Medium	High	1	1.0000001
+169	Low	Medium	Bommie	Very low	Low	Medium	2	2.0000001
+170	Low	Medium	Bommie	Very low	Low	Medium	5	5.0000001
+171	Medium	Low	Bommie	Medium	Medium	Medium	4	4.0000001
+172	Low	Medium	Bommie	Low	Medium	Medium	1	1.0000001
+173	Low	Medium	Bommie	Low	Low	Medium	2	2.0000001
+174	Very low	Medium	Bommie	Low	Medium	Medium	2	2.0000001
+175	Very low	Medium	Bommie	Medium	Medium	Medium	6	6.0000001
+176	Low	Medium	Bommie	High	Medium	Medium	3	3.0000001
+177	Medium	Medium	Bommie	Low	Low	Medium	1	1.0000001
+178	Medium	Low	Bommie	High	Medium	Medium	7	7.0000001
+179	Medium	Medium	Bommie	Low	Low	Medium	0	0.0000001
+180	Medium	Low	Bommie	Low	Low	Medium	0	0.0000001
+181	Very low	Medium	Bommie	Medium	Medium	Medium	2	2.0000001
+182	Very low	Medium	Bommie	High	Medium	Medium	5	5.0000001
+183	Very low	Medium	Bommie	Low	Low	Medium	2	2.0000001
+184	Medium	Medium	Bommie	Low	Low	Medium	4	4.0000001
+185	Low	High	Bommie	Medium	Medium	Low	9	9.0000001
+186	Low	High	Bommie	Low	Medium	Medium	2	2.0000001
+187	Low	Medium	Bommie	Low	Low	Low	5	5.0000001
+188	Medium	Medium	Bommie	Low	Low	Medium	3	3.0000001
+189	Low	Medium	Bommie	Medium	Medium	Low	5	5.0000001
+190	High	Low	Seagrass	Low	Medium	Medium	2	2.0000001
+191	Low	Low	Seagrass	Low	Low	Medium	0	0.0000001
+192	Low	Low	Seagrass	Low	Low	High	1	1.0000001
+193	Medium	Low	Seagrass	Very high	High	High	6	6.0000001

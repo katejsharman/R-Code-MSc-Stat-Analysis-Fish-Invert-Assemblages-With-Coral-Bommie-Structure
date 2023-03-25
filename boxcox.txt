@@ -1,0 +1,164 @@
+Habitat	HAS	Rugosity	Sp_richbc
+Bommie	Low	High	1.4422512
+Bommie	High	High	1.8171216
+Bommie	Low	High	0.0215443
+Bommie	Medium	High	1.5874024
+Bommie	High	High	1.2599231
+Bommie	Medium	High	1.2599231
+Bommie	Medium	High	1.5874024
+Bommie	Medium	High	1.8171216
+Bommie	Low	High	1.7099771
+Bommie	Low	High	1.7099771
+Bommie	Very high	High	2.0800846
+Bommie	Medium	High	1.5874024
+Bommie	Low	High	1.0000033
+Seagrass	Very low	Medium	1.0000033
+Seagrass	Low	High	1.5874024
+Seagrass	Low	High	2.0800846
+Seagrass	Medium	High	1.8171216
+Seagrass	Low	High	1.4422512
+Seagrass	Low	High	1.7099771
+Seagrass	Low	High	1.9129321
+Seagrass	Low	High	1.2599231
+Seagrass	Medium	Medium	2.1544354
+Seagrass	Low	High	1.9129321
+Seagrass	Low	High	1.4422512
+Seagrass	Low	High	2.1544354
+Bommie	Medium	High	1.9129321
+Bommie	Low	High	1.0000033
+Bommie	Low	High	1.7099771
+Bommie	Medium	High	1.2599231
+Bommie	Very low	High	0.0215443
+Bommie	Low	High	0.0215443
+Bommie	High	High	2.6207419
+Bommie	High	High	2.0800846
+Bommie	Low	High	0.0215443
+Bommie	Medium	High	1.2599231
+Bommie	Medium	High	1.0000033
+Bommie	Medium	High	1.8171216
+Bommie	Very high	High	2.2894291
+Bommie	High	High	2.0000008
+Bommie	High	Medium	2.5198426
+Bommie	Very high	High	2.5198426
+Bommie	Medium	High	2.4101428
+Bommie	Medium	High	2.6684021
+Bommie	Medium	High	2.1544354
+Bommie	Medium	High	2.0000008
+Bommie	Very high	High	2.1544354
+Bommie	Low	High	2.0000008
+Bommie	High	High	2.0000008
+Bommie	Very low	Medium	0.0215443
+Bommie	Low	Medium	0.0215443
+Bommie	Very low	Medium	0.0215443
+Bommie	Low	Medium	1.2599231
+Bommie	Low	Medium	0.0215443
+Bommie	High	FALSE	2.1544354
+Bommie	Low	High	1.2599231
+Bommie	Medium	High	2.0000008
+Bommie	Medium	High	1.4422512
+Bommie	High	High	1.8171216
+Bommie	Medium	Medium	1.7099771
+Bommie	High	High	1.5874024
+Bommie	Medium	Medium	1.7099771
+Bommie	Medium	High	2.0800846
+Bommie	High	High	2.5712821
+Bommie	Low	High	1.2599231
+Bommie	Medium	High	2.5198426
+Bommie	Low	Medium	1.8171216
+Bommie	Low	High	1.4422512
+Bommie	Medium	High	1.8171216
+Bommie	Low	High	0.0215443
+Bommie	Very high	High	2.4662126
+Bommie	High	High	1.7099771
+Bommie	Very low	High	1.0000033
+Bommie	Medium	High	2.0000008
+Bommie	Medium	Medium	2.2894291
+Bommie	Medium	High	1.9129321
+Bommie	Very low	Medium	1.0000033
+Bommie	Low	Medium	1.9129321
+Bommie	Medium	High	2.0000008
+Bommie	Low	High	2.0000008
+Bommie	Low	High	1.2599231
+Bommie	Medium	High	2.2239808
+Bommie	Low	Medium	1.4422512
+Bommie	Low	High	1.7099771
+Bommie	Medium	High	1.5874024
+Bommie	Medium	High	1.4422512
+Bommie	Medium	High	2.0800846
+Bommie	Medium	High	1.5874024
+Bommie	High	High	1.5874024
+Bommie	High	High	1.5874024
+Bommie	Very low	Medium	0.0215443
+Bommie	Low	High	1.7099771
+Bommie	High	High	1.9129321
+Bommie	Low	High	1.0000033
+Bommie	Low	High	1.0000033
+Bommie	Medium	High	1.5874024
+Bommie	High	High	1.9129321
+Bommie	High	High	1.7099771
+Bommie	High	High	1.2599231
+Bommie	Medium	High	2.0000008
+Bommie	Low	Medium	0.0215443
+Bommie	Very high	Medium	2.3513353
+Bommie	Medium	Medium	1.5874024
+Bommie	Medium	High	2.0000008
+Bommie	Medium	High	1.9129321
+Bommie	Medium	High	1.7099771
+Bommie	Medium	Medium	2.0000008
+Bommie	Medium	High	1.8171216
+Bommie	High	High	2.4101428
+Bommie	High	High	2.1544354
+Bommie	Medium	High	1.5874024
+Bommie	Low	Medium	1.8171216
+Bommie	Low	High	1.2599231
+Bommie	Low	Medium	1.9129321
+Bommie	Medium	High	2.0000008
+Bommie	Very low	Medium	1.0000033
+Bommie	Very low	Medium	0.0215443
+Bommie	High	Medium	2.4662126
+Bommie	Low	Medium	1.5874024
+Bommie	Low	Medium	1.9129321
+Bommie	Medium	Low	2.0800846
+Bommie	Low	Medium	2.0800846
+Bommie	Low	Medium	1.5874024
+Bommie	Medium	Low	1.8171216
+Bommie	Medium	Medium	1.9129321
+Bommie	High	High	1.8171216
+Bommie	Low	Medium	1.2599231
+Bommie	Medium	High	1.7099771
+Bommie	Medium	High	1.5874024
+Bommie	Low	High	1.4422512
+Bommie	Low	Medium	1.0000033
+Bommie	Low	Low	1.2599231
+Bommie	Medium	High	1.2599231
+Bommie	Medium	Medium	1.2599231
+Bommie	Very low	Medium	0.0215443
+Bommie	Medium	High	1.4422512
+Bommie	Very low	Medium	0.0215443
+Bommie	Low	Medium	1.4422512
+Bommie	Low	High	1.4422512
+Bommie	Very low	Medium	1.5874024
+Bommie	Very low	Medium	1.4422512
+Bommie	Medium	Medium	1.7099771
+Bommie	Low	Medium	0.0215443
+Bommie	Low	Medium	2.0800846
+Bommie	Low	Medium	1.9129321
+Bommie	Medium	Medium	2.0800846
+Bommie	High	Medium	2.4662126
+Bommie	Low	Medium	1.2599231
+Bommie	High	Medium	2.2894291
+Bommie	Low	Medium	1.0000033
+Bommie	Low	Medium	1.0000033
+Bommie	Medium	Medium	1.7099771
+Bommie	High	Medium	2.1544354
+Bommie	Low	Medium	0.0215443
+Bommie	Low	Medium	1.2599231
+Bommie	Medium	Low	1.5874024
+Bommie	Low	Medium	1.0000033
+Bommie	Low	Low	1.9129321
+Bommie	Low	Medium	1.2599231
+Bommie	Medium	Low	2.0000008
+Seagrass	Low	Medium	1.2599231
+Seagrass	Low	Medium	0.0215443
+Seagrass	Low	High	1.2599231
+Seagrass	Very high	High	2.4101428
